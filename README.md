@@ -3,6 +3,6 @@
 
 ## What is NSXC?
 
-NSXC is a software production group based around making large and small base programs for users or corpartions. 
+NSXC is a software production group made up of other software corps, contractors, and volunteers. NSXC is based around making large and small base programs for users or corporations. 
 
 NSXC also works with many partners to make sure our work is top of the line
