@@ -22,8 +22,9 @@ requirements
 -User must understand how to find vulnerable code  
 -Using Chatgpt is not permited as proof yes we know if you used it 
 -Stackoverflow is allowed
-
+-Must be able to understand a little bit of one of the follow verbal languages (French, Spanish, Russain, Arabic, chinese[Mandarin, Standard, Cantones])  
 exceptions
+-Must speak fluent English written and spoken it does not have to be your first language
 -If the user has over 5 years of networking or cyber security can bypass proof of languages
 -Lang not allowed are luau that it
 ```
