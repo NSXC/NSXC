@@ -8,3 +8,6 @@ NSXC is a software production group made up of other software corps, contractors
 NSXC also works with many partners to make sure our work is top of the line
 
 Donate to the Red Cross here -> https://www.redcross.org/donate
+
+
+### Join NSXC software now as a contractor or a project manager [soon] 
