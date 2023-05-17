@@ -12,6 +12,6 @@ Donate to the Red Cross here -> https://www.redcross.org/donate
 
 ### Join NSXC software now as a contractor or a project manager [soon] 
 
-##### NSXC IS AN LLC REGISTERED IN BOSTON-MA-USA AND LTD IN FRANCE 
+##### NSXC IS AN LLC REGISTERED IN BOSTON-MA-USA AND SARL IN FRANCE 
 
 
