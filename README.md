@@ -2,3 +2,7 @@
 
 
 ## We do a little rust 😍
+
+## What I post
+
+Most of the time I post APIS made in Rust,C++,and C# 
