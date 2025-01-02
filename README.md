@@ -3,5 +3,5 @@
 
 ## About me
 
-I am a freelance developer with more than 6 years of experience 
+I am a freelance developer with more than 7 years of experience 
 t.me/cowdevs
